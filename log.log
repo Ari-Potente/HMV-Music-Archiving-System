@@ -1,0 +1,25 @@
+-----STARTING NEW MIGRATION AT Sun Dec 03 2023 16:26:57 GMT+0100 (Central European Standard Time)-----
+
+
+Using Prueba as database
+Finished dropping the collections: persons, artists, concerts ✅
+Started inserting from temas to persons.
+Finished inserting from temas to persons. Took 0.11 seconds. ✅
+Started inserting from interpretes to persons.
+Finished inserting from interpretes to persons. Took 0.063 seconds. ✅
+Started inserting from conciertos to persons.
+Finished inserting from conciertos to persons. Took 0.083 seconds. ✅
+Started inserting from interpretes to artists (only Solists).
+Finished inserting from interpretes to artists (only Solists). Took 0.591 seconds. ✅
+Started inserting from temas to artists (only Writers).
+Finished inserting from temas to artists (only Writers). Took 8.249 seconds. ✅
+Started inserting from interpretes to artists (only Bands).
+Finished inserting from interpretes to artists (only Bands). Took 0.034 seconds. ✅
+Started inserting from temas to compositions.
+Finished inserting from temas to compositions. Took 103.665 seconds. ✅
+Started inserting from conciertos to concerts.
+Finished inserting from conciertos to concerts. Took 11811.605 seconds. ✅
+Started cleaning from compositions.
+Finished cleaning from compositions. Took 1.435 seconds. ✅
+Started creating recordings.
+Finished creating recordings. Took 0.607 seconds. ✅
