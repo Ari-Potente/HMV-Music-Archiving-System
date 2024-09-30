@@ -35,4 +35,4 @@
 
   En la siguiente documento adjunto se encuentra la explicación del modelado UML y el perímetro de los agregados, la limpieza de datos que se ha seguido, la creación de los pipelines y las anomalías encontradas, y el planteamiento de un clúster.
 
-[memoria.pdf]([https://github.com/carmenabans/Streaming-music-platform/files/14169057/doc.pdf](https://github.com/Ari-Potente/HMV-Music-Archiving-System/blob/main/Arquitectura%20de%20Datos_%20Memoria%20Final%20.pdf))
+[memoria.pdf](https://github.com/Ari-Potente/HMV-Music-Archiving-System/blob/main/Arquitectura%20de%20Datos_%20Memoria%20Final%20.pdf)
