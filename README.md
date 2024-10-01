@@ -31,7 +31,7 @@
   - MongoDB: para almacenar la información de artistas, álbumes y conciertos. El proceso de migración se realizará utilizando pipelines en MongoDB.
   - Python: la librería NumPy para limpiar los datos proporcionados en formato CSV antes de la migración.
 
-## Memoria
+## Memoria:
 
   En la siguiente documento adjunto se encuentra la explicación del modelado UML y el perímetro de los agregados, la limpieza de datos que se ha seguido, la creación de los pipelines y las anomalías encontradas, y el planteamiento de un clúster.
 
